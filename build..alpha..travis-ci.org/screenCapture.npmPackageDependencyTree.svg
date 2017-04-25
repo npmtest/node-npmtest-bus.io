@@ -1,0 +1,70 @@
+<svg height="1070" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="1070" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26">23 megabytes installed</tspan>
+<tspan x="10" y="42"></tspan>
+<tspan x="10" y="58">node_modules</tspan>
+<tspan x="10" y="74">├─┬ bus.io-client@0.2.2 </tspan>
+<tspan x="10" y="90">│ ├─┬ bus.io-common@0.2.2 </tspan>
+<tspan x="10" y="106">│ │ ├── extend@2.0.1 </tspan>
+<tspan x="10" y="122">│ │ └── node-uuid@1.4.8 </tspan>
+<tspan x="10" y="138">│ ├── component-emitter@1.2.1 </tspan>
+<tspan x="10" y="154">│ ├─┬ debug@2.6.4 </tspan>
+<tspan x="10" y="170">│ │ └── ms@0.7.3 </tspan>
+<tspan x="10" y="186">│ └─┬ socket.io-client@1.7.3 </tspan>
+<tspan x="10" y="202">│   ├── backo2@1.0.2 </tspan>
+<tspan x="10" y="218">│   ├── component-bind@1.0.0 </tspan>
+<tspan x="10" y="234">│   ├─┬ debug@2.3.3 </tspan>
+<tspan x="10" y="250">│   │ └── ms@0.7.2 </tspan>
+<tspan x="10" y="266">│   ├─┬ engine.io-client@1.8.3 </tspan>
+<tspan x="10" y="282">│   │ ├── component-inherit@0.0.3 </tspan>
+<tspan x="10" y="298">│   │ ├─┬ debug@2.3.3 </tspan>
+<tspan x="10" y="314">│   │ │ └── ms@0.7.2 </tspan>
+<tspan x="10" y="330">│   │ ├── has-cors@1.1.0 </tspan>
+<tspan x="10" y="346">│   │ ├── parsejson@0.0.3 </tspan>
+<tspan x="10" y="362">│   │ ├── parseqs@0.0.5 </tspan>
+<tspan x="10" y="378">│   │ ├── xmlhttprequest-ssl@1.5.3 </tspan>
+<tspan x="10" y="394">│   │ └── yeast@0.1.2 </tspan>
+<tspan x="10" y="410">│   ├── indexof@0.0.1 </tspan>
+<tspan x="10" y="426">│   ├── object-component@0.0.3 </tspan>
+<tspan x="10" y="442">│   ├─┬ parseuri@0.0.5 </tspan>
+<tspan x="10" y="458">│   │ └─┬ better-assert@1.0.2 </tspan>
+<tspan x="10" y="474">│   │   └── callsite@1.0.0 </tspan>
+<tspan x="10" y="490">│   └── to-array@0.1.4 </tspan>
+<tspan x="10" y="506">├── bus.io-messages@0.2.4 </tspan>
+<tspan x="10" y="522">├─┬ bus.io-receiver@0.1.5 </tspan>
+<tspan x="10" y="538">│ └── switched@0.1.2 </tspan>
+<tspan x="10" y="554">└─┬ socket.io@1.7.3 </tspan>
+<tspan x="10" y="570">  ├─┬ debug@2.3.3 </tspan>
+<tspan x="10" y="586">  │ └── ms@0.7.2 </tspan>
+<tspan x="10" y="602">  ├─┬ engine.io@1.8.3 </tspan>
+<tspan x="10" y="618">  │ ├─┬ accepts@1.3.3 </tspan>
+<tspan x="10" y="634">  │ │ ├─┬ mime-types@2.1.15 </tspan>
+<tspan x="10" y="650">  │ │ │ └── mime-db@1.27.0 </tspan>
+<tspan x="10" y="666">  │ │ └── negotiator@0.6.1 </tspan>
+<tspan x="10" y="682">  │ ├── base64id@1.0.0 </tspan>
+<tspan x="10" y="698">  │ ├── cookie@0.3.1 </tspan>
+<tspan x="10" y="714">  │ ├─┬ debug@2.3.3 </tspan>
+<tspan x="10" y="730">  │ │ └── ms@0.7.2 </tspan>
+<tspan x="10" y="746">  │ ├─┬ engine.io-parser@1.3.2 </tspan>
+<tspan x="10" y="762">  │ │ ├── after@0.8.2 </tspan>
+<tspan x="10" y="778">  │ │ ├── arraybuffer.slice@0.0.6 </tspan>
+<tspan x="10" y="794">  │ │ ├── base64-arraybuffer@0.1.5 </tspan>
+<tspan x="10" y="810">  │ │ ├── blob@0.0.4 </tspan>
+<tspan x="10" y="826">  │ │ └── wtf-8@1.0.0 </tspan>
+<tspan x="10" y="842">  │ └─┬ ws@1.1.2 </tspan>
+<tspan x="10" y="858">  │   ├── options@0.0.6 </tspan>
+<tspan x="10" y="874">  │   └── ultron@1.0.2 </tspan>
+<tspan x="10" y="890">  ├─┬ has-binary@0.1.7 </tspan>
+<tspan x="10" y="906">  │ └── isarray@0.0.1 </tspan>
+<tspan x="10" y="922">  ├── object-assign@4.1.0 </tspan>
+<tspan x="10" y="938">  ├─┬ socket.io-adapter@0.5.0 </tspan>
+<tspan x="10" y="954">  │ └─┬ debug@2.3.3 </tspan>
+<tspan x="10" y="970">  │   └── ms@0.7.2 </tspan>
+<tspan x="10" y="986">  └─┬ socket.io-parser@2.3.1 </tspan>
+<tspan x="10" y="1002">    ├── component-emitter@1.1.2 </tspan>
+<tspan x="10" y="1018">    ├─┬ debug@2.2.0 </tspan>
+<tspan x="10" y="1034">    │ └── ms@0.7.1 </tspan>
+<tspan x="10" y="1050">    └── json3@3.3.2</tspan>
+</text>
+</svg>
